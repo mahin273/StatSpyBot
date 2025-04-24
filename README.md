@@ -99,4 +99,4 @@ This project is open source and available under the MIT License.
 
 ## Contact
 
-For support or queries, contact @YourUsername on Telegram 
+For support or queries, contact md.mahin.bd18@gmail.com
